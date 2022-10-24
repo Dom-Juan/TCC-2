@@ -7,6 +7,7 @@ def plot_history(history):
   loss = history.history['loss']
   val_loss = history.history['val_loss']
   x = range(1, len(accuracy) + 1)
+  # Plot da figura.
   plot.figure(figsize=(12, 5))
   plot.subplot(1, 2, 1)
   plot.plot(x, accuracy, 'b', label='Precisão de treinamento')
