@@ -59,14 +59,17 @@ class SensitiveDataGenerator():
         writer.writerow(data)
   
   # Escrita de dados CSV gerados, sendo eles apenas senspiveis.
-  def write_csv_data_sensitive_only(self, name='dados_sensiveis.csv', size:int=10):
+  def write_csv_data_sensitive_only(self, name='dados_sensiveis.csv', title:list=None, size:int=10):
     """_summary_
     Args:
         name (str, optional): _description_. Defaults to 'dados_sensiveis.csv'.
     """    
     with open(name, 'w',  newline='', encoding='utf-8') as csv_file:
         writer:object = csv.writer(csv_file)
-        writer.writerow(self.__generate_data_header())
+        if(title is None):
+          writer.writerow(self.__generate_data_header())
+        else:
+          writer.writerow(title)
         for _ in range(1, size):
           writer.writerow(self.__generate_data())
 
