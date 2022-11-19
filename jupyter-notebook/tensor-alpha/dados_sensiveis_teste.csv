@@ -1,170 +1,1000 @@
 Dado A,Dado B,Dado C,tipo de dado
-Pietra Castro,Android 4.0.3,Nutricionista,0
-Isadora Nogueira,Android 1.1,Implantodontista,0
-Yuri Martins,4195625379669212745,+55 61 6385-4345,1
-Joana Cardoso,Android 1.1,Bombeiro,0
-Catarina Lopes,Android 2.3.1,Capoeirista,0
-Gabriela Martins,4173652286249850618,(021) 5420 2657,1
-Maria Vitória Barros,Android 7.1,Investigador de Polícia,0
-Gabrielly da Rocha,2295531833511250,+55 41 7652 8475,1
-Pedro Henrique Ramos,3589440962481652,61 9670-2189,1
-Enzo Pinto,4187322032831096,+55 11 1881-1994,1
-Sr. Ian Correia,Android 2.3.2,Ortesista,0
-Maria Julia Rodrigues,180023254216702,(051) 6082-1934,1
-Alice Fernandes,4234989792818,+55 51 5669 5212,1
-Vitor Freitas,Android 4.1.1,Tecnólogo em jogos digitais,0
-Sr. Pietro Peixoto,213128598738781,+55 (081) 5403-5595,1
-Luana Sales,676196761255,0300 030 0483,1
-Vitor Almeida,30500626465390,61 4797 1533,1
-João Gabriel da Luz,Android 4.1,Guincheiro,0
-João Miguel da Luz,Android 4.2.1,Comprador,0
-Eduarda Cavalcanti,Android 5.0,Agente de combate à endemias,0
-Joaquim Cunha,Android 4.2.1,Deputado,0
-Cauê Rocha,377300224018514,61 8835-5126,1
-Maria Cecília da Cunha,Android 8.0.0,Paparazzo,0
-Sra. Helena Alves,Android 3.2.4,Engenheiro de produto ou produção,0
-João Vitor Moreira,4484617348169366,(021) 7726 5290,1
-Luiz Otávio Nunes,180044176218733,+55 21 6559 0613,1
-Bárbara Dias,3579764267835946,(084) 3884 0981,1
-Srta. Luiza Caldeira,30338469149395,+55 81 6344-3275,1
-Sophia Viana,Android 2.3.3,Auxiliar de reprografia,0
-Letícia Nogueira,Android 3.2.2,Garimpeiro,0
-Laís da Paz,Android 4.3,Jogador de basquete,0
-Pietra da Rocha,Android 4.0,Engenheiro de som,0
-Sr. Bryan Rodrigues,347574961504830,+55 11 0509 6078,1
-Valentina da Luz,30273589074779,(051) 4400-3326,1
-João Pedro Ferreira,4719283071030254,+55 (084) 8649 6230,1
-Yasmin da Conceição,Android 7.1,Kite-surfer,0
-Giovanna Araújo,3549273717543040,+55 84 8186-4792,1
-Sr. Gabriel Porto,Android 1.6,Apontador de mão-de-obra,0
-Sr. Luigi Alves,5113752109680107,(021) 4673-0830,1
-Vitor Hugo Freitas,4120150464871383,(011) 2517-8007,1
-Sr. Davi Luiz Teixeira,Android 8.1.0,Enfermeiro,0
-Pietra Campos,3563663597554441,31 0258-5457,1
-Nicolas Castro,4680597397810692,61 5706 7367,1
-Brenda Silva,3526134486189802,(081) 4250-3741,1
-João Pedro da Mota,3526831175178760,(011) 1941 1811,1
-Thales Lima,6011084224056612,+55 61 1416-8214,1
-Yasmin Peixoto,Android 3.2.5,Datilógrafo,0
-Thiago Teixeira,Android 4.4.2,Consultor de moda,0
-Kamilly Moura,4239028597297825,(021) 3123-1062,1
-Emanuel Fogaça,Android 3.2.1,Tecnólogo em produção de bebidas,0
-Lívia da Mata,2720374162525830,21 5720 1701,1
-Milena Costa,4511222227191305,+55 21 6893 1035,1
-Alícia Pires,Android 2.3.5,Engenheiro têxtil,0
-Henrique Gomes,4410181899152106,+55 84 5160-9322,1
-Vitor Gonçalves,3572509962509297,84 8809-7743,1
-Ana Laura Rodrigues,Android 4.0,Engenheiro agrícola,0
-Kamilly Correia,373006525518169,84 4275-1456,1
-Emanuelly da Cunha,348614333430238,0300-340-5140,1
-Carlos Eduardo Monteiro,4559500036929475,(031) 3286-4647,1
-Luiz Otávio Nogueira,Android 11,Clarinetista,0
-Nathan Jesus,Android 4.0.2,Engenheiro industrial,0
-Dra. Lorena Costela,Android 3.2,Preparador de máquinas,0
-Natália Lopes,Android 2.3.4,Atendente,0
-Manuela Rezende,Android 2.0,Retificador,0
-Lucas da Rosa,4710946540838,(031) 9402 2398,1
-Eduarda da Mota,Android 4.0.4,Leão de chácara,0
-Theo da Rocha,4640061692212889,+55 (081) 2996-6398,1
-Luiz Felipe Rodrigues,343773936948494,+55 41 6934 4860,1
-Esther Moura,6011951739764239,0800 066 1896,1
-Caroline Lopes,4780645346667470,+55 11 0820 7834,1
-Maysa Gomes,347411944294256,+55 11 3304 5568,1
-Davi Lucca Silva,6514477778113841,+55 71 4205-8992,1
-Alexandre Jesus,Android 4.2.2,Repórter,0
-Yago Moreira,Android 9,Forneiro,0
-Dr. Davi Luiz Monteiro,213159457074869,+55 (084) 7399 4970,1
-Amanda Novaes,2229954475146436,+55 84 5844 6898,1
-Maria Sophia Silveira,4275209963834087,0800-979-2131,1
-Caio Pires,30527402813303,+55 21 8718-1930,1
-Luiz Felipe Pires,Android 8.0.0,Consultor,0
-Ian Costa,36899725933082,0500 050 2496,1
-Vitor Pereira,2307287195939367,(031) 1402-3892,1
-Vitor Ferreira,675980031891,+55 (061) 6160-3874,1
-Sr. Thales Duarte,Android 9,Empresário,0
-Sra. Maria da Costa,Android 3.0,Diplomata,0
-Luiz Henrique Pires,3593020829129043,84 1423 1129,1
-Sr. Vitor Hugo Cardoso,4371622962652024,+55 (041) 9122-7457,1
-Pedro Miguel Cardoso,Android 2.3.5,Levantador de peso,0
-Isabella Azevedo,Android 4.4.3,Terapeuta floral,0
-Igor Duarte,372831827373299,+55 (084) 3117 0613,1
-Lucas Vieira,Android 4.2.1,Rebarbador de metal,0
-Pietra Carvalho,Android 4.2.2,Enólogo,0
-Fernando Gomes,5340751383764335,+55 31 2091-6394,1
-Kaique Ramos,Android 4.1.2,Gerente de banco,0
-Breno da Rosa,6011234275432028,+55 51 7341 4205,1
-Luna Gomes,Android 4.1.1,Soldado,0
-Bárbara Viana,Android 2.0.1,Quiropraxista,0
-Lucas Viana,6590813442477070,+55 (031) 7270 5182,1
-Sra. Bruna Rodrigues,3582924823875340,+55 (084) 2641 4908,1
-João Miguel Sales,Android 6.0,Perito judicial,0
-Giovanna Cavalcanti,Android 2.3,Engenheiro de som,0
-Davi Luiz Rocha,180045657861818,+55 (061) 6991-2701,1
-Clara Martins,4588029762556620,0500 298 9267,1
-Davi Lucca Lopes,6538158875197893,+55 71 5036 1108,1
-Alana Ramos,349684472000950,11 5939 9140,1
-Thales Rocha,Android 1.0,Assistente administrativo,0
-Ana Luiza Gonçalves,6011243379565328,+55 21 5661 6804,1
-Maria Fernanda da Paz,Android 4.1,Figurinista,0
-Yago Vieira,Android 4.0.4,Feirante,0
-Emanuelly Rezende,Android 2.3,Gestor ambiental,0
-Eduarda Dias,Android 5.0.1,Engenheiro agrimensor,0
-Isabelly Costela,676207301067,+55 21 0208 0856,1
-Sarah Lima,36424871393781,+55 31 7708-0080,1
-Felipe Carvalho,Android 2.3.6,Produtor de multimídia,0
-Vitor Hugo Ribeiro,3523110924563215,+55 (051) 0505 3058,1
-Elisa Ramos,Android 3.2.4,Diagramador,0
-Danilo Almeida,Android 2.2.1,Nefrologista,0
-Mirella Carvalho,340565057455777,0300 143 6514,1
-Gustavo Henrique da Costa,4998027601503930,(061) 1208-7208,1
-Nicole Moreira,Android 2.3,Timoneiro,0
-Davi Lucas Mendes,Android 1.5,Somelier,0
-Alícia Barbosa,4113834633365323,(081) 6102-0133,1
-Sra. Alice Costela,348578432948681,+55 81 9536-1323,1
-Marina da Rocha,3537342876492200,71 0610 0789,1
-Emanuel Lima,180031914885303,(011) 2932 9048,1
-Isadora Ramos,213106715189914,+55 (011) 0544-5217,1
-Lucas Gabriel da Costa,Android 4.4.1,Epidemiólogo,0
-Ana Júlia da Luz,4432698023711543,(021) 4862-1056,1
-Enrico da Luz,4800339907759,+55 11 0129 5329,1
-Luiz Henrique da Costa,Android 2.3.7,Juiz de direito,0
-Eduarda Araújo,Android 4.2,Instalador de linha telefônica,0
-Maitê Viana,4364393358177,+55 31 0665-0181,1
-Benjamin Rezende,675909006560,(031) 7128 8889,1
-Dr. Pietro Pinto,Android 4.0.4,Bibliotecário,0
-Sarah Monteiro,30209150644129,+55 (081) 7294-2089,1
-Dr. Renan Monteiro,Android 4.1.2,Pára-quedista,0
-Eduardo Gonçalves,3530203808502721,11 7552-3984,1
-Arthur da Mota,Android 8.0.0,Bartender,0
-Joana Fogaça,180076176579698,84 1517 5836,1
-Emilly da Luz,4338810645048395,+55 (084) 3188 3004,1
-Sabrina Farias,4401820351928,+55 (071) 1757 2450,1
-Rodrigo Moraes,Android 5.0.1,Juiz ou árbitro de futebol,0
-Matheus Correia,30155261425744,0500 349 6588,1
-Dra. Amanda Monteiro,Android 4.3,Profissional de comércio exterior,0
-Valentina Souza,Android 4.0.2,Engenheiro de energia,0
-Dr. João Felipe da Mata,3533344335234664,+55 (081) 0161 2568,1
-Dr. Nathan Rezende,Android 2.0,Servente-de-obras,0
-Carolina Porto,Android 4.2.2,Contábil,0
-João Pedro Freitas,Android 2.2.2,Manicure,0
-Isabel Costa,Android 4.0.2,Assistente de produção,0
-Vicente Melo,3506197375355762,+55 31 6590 6333,1
-Carolina Cardoso,30493100568303,(051) 5319 4936,1
-Marina Pereira,Android 1.0,Leiloeiro,0
-Pietro Caldeira,Android 3.2.3,Gestor de recursos humanos,0
-Stephany Costela,4310464355154,+55 84 5980 7723,1
-Isis Vieira,4433599506241611,+55 41 0614-3391,1
-Fernanda Sales,4554209832148521,0300-104-5155,1
-Guilherme Peixoto,3539925271337802,0800-270-6522,1
-Sophia da Cunha,Android 1.0,Salva-vidas,0
-Davi Luiz Moraes,4871076089942619505,+55 41 7646-6295,1
-Maria Luiza Vieira,4998181717733418,(031) 2544 3478,1
-Esther Moreira,4280739288460685707,(081) 0576-5599,1
-Vitória da Mota,Android 4.0.4,Político,0
-Sophie Fernandes,Android 1.6,Comprador,0
-Luna Cardoso,4058378306256,+55 21 4882-9183,1
-Alana Lima,371583231521911,71 5324 3298,1
-Diego Costela,30115432315117,41 2461 7550,1
-Dr. Nathan Silva,Android 9,Tenente,0
-Vitor Jesus,Android 4.1,Auditor,0
-Cecília Caldeira,502024819208,+55 61 4891 4510,1
+Dr. Leandro Dias,180011757834857,51 9096 2409,1
+Diego Sales,4906969027778391,(031) 4475 3065,1
+Ian Pereira,180076676755186,51 1506 4096,1
+Dra. Heloísa Silveira,180017867450856,+55 31 1415-7637,1
+Maria Clara Viana,Android 4.3,Profissional de rádio e tv,0
+Ana Vitória Castro,4897180592140469795,0300-820-0764,1
+Ana Sophia da Costa,Android 2.3.5,Marechal,0
+Sr. Alexandre das Neves,4621152029194750,31 6252-0955,1
+Lorenzo Alves,3536447181101171,(061) 9734 7426,1
+Carolina Nunes,Android 4.4.3,Jóquei,0
+Manuela Moura,Android 4.4.4,Engenheiro acústico,0
+Isadora da Rosa,2705699312731642,+55 (051) 3440 2394,1
+Alana Gomes,Android 7.1,Avalista,0
+Pedro Nascimento,30563790278841,51 0812 3362,1
+Matheus Araújo,Android 4.4.3,Caminhoneiro,0
+André Caldeira,Android 5.0,Petroleiro,0
+Danilo Costela,6517794593753289,+55 81 4196-4450,1
+Sr. Gustavo Moura,Android 5.1,Barbeiro,0
+Kaique da Mota,Android 7.0,Engenheiro mecatrônico,0
+Agatha Porto,Android 4.0,Presidente da República,0
+Mariane Lima,Android 2.2,Historiador,0
+Maria Sophia Melo,2706610149932369,0900 852 1531,1
+Rafaela Nogueira,6011141015136969,(081) 7565-7665,1
+Breno Gomes,Android 2.3.5,Coronel,0
+Diogo Araújo,5444194212074078,+55 84 3414-6225,1
+Sr. Diego Oliveira,371968145749155,81 6196 9189,1
+Leandro Moreira,213159209458915,+55 81 6494 4706,1
+Sra. Ana Luiza Araújo,Android 3.1,Ufólogo,0
+Pietro Ribeiro,4009618643162771,(021) 0040 9496,1
+Marina Moreira,Android 8.1.0,Flautista,0
+Alexia Souza,Android 4.3,Jangadeiro,0
+Luiz Miguel Dias,Android 3.2.5,Jogador de hóquei,0
+Emanuelly Mendes,3568856519764750,41 5531-4795,1
+Dr. Breno da Paz,3583235835821191,21 3813 5429,1
+Ana Sophia Farias,Android 7.1,Alfaiate,0
+João Gabriel da Rocha,Android 3.1,Karateca,0
+Ana Beatriz Cunha,503856040897,21 9571 5353,1
+Letícia Almeida,639093145493,+55 41 6251-8878,1
+Sr. Pedro Lucas Gomes,Android 4.0.2,Pára-quedista,0
+Lucas Gabriel Cunha,Android 2.3.5,Lanterneiro,0
+Enzo Ribeiro,5506891789155066,84 6630 4886,1
+Ana Clara Dias,Android 4.0.1,Engenheiro químico,0
+Sr. Noah da Conceição,180027986504277,61 2984 8951,1
+Dr. Paulo Costa,Android 4.0.3,Cineasta,0
+Sr. Heitor Dias,Android 2.2.3,Contra regra,0
+Thiago Martins,Android 4.2,Médico geneticista,0
+Felipe Ferreira,372250451192059,21 6517-9115,1
+Rebeca Moraes,180052439863302,+55 (071) 7705-5678,1
+Dr. Enzo Aragão,4588486934578248109,11 1437 6601,1
+Bianca da Rosa,Android 9,Lutador de kung fu,0
+Ian Freitas,Android 2.1,Ventríloquo,0
+Daniela Araújo,4689042777755382,+55 (051) 6826 1847,1
+Sra. Eduarda Gonçalves,6562831264813770,+55 61 9464-4610,1
+Sr. Marcelo Ramos,Android 4.4.3,Paparazzo,0
+Dra. Daniela Oliveira,Android 10,Tenista,0
+Ana Carolina da Conceição,4991453568043859,11 5402-3201,1
+Matheus Santos,3521852744253608,(061) 8707 9292,1
+Maria Clara Cunha,Android 4.2.1,Continuista,0
+João Felipe Peixoto,4732076881566035,+55 (041) 3968-4336,1
+Dra. Melissa da Cruz,Android 3.2,Engenheiro de supply chain ou logística,0
+Mariane Moraes,Android 4.4,Astrofísico,0
+Srta. Olivia Almeida,30047533443615,(031) 1500 1119,1
+Vitor Rodrigues,36022495725477,+55 11 7765-3413,1
+Heloísa Sales,6524459592205332,+55 81 7204-4437,1
+Dra. Ana Júlia Freitas,4420913524129838,71 5954-4102,1
+Pedro Miguel Duarte,4076552821189,21 8227 4250,1
+Srta. Kamilly Peixoto,3539746911535070,(021) 8020-3885,1
+João Gabriel da Conceição,Android 4.4,Neurocirurgião,0
+Joana Moura,4713288086837989629,(071) 2542 5683,1
+Ana Luiza Cunha,180072784912611,+55 51 6491 3366,1
+Mariana Mendes,Android 1.5,Aeronauta,0
+Fernando Ramos,Android 3.2.6,Protético dentário,0
+João Gabriel Dias,30338055304776,+55 (084) 8517 5134,1
+Caroline Duarte,Android 5.0.1,Despachante,0
+Marcelo Mendes,Android 11,Triatleta,0
+Bianca da Mata,3576034170783713,11 2515 2358,1
+Pedro Miguel Rezende,375931098444071,+55 51 7965 3046,1
+Nina Peixoto,180072023835284,+55 21 3560-5325,1
+Sr. Igor Novaes,676122750836,+55 31 8311-5284,1
+Antônio Fogaça,4443981812464103,+55 (021) 3021 9782,1
+Sr. Antônio Nunes,4545806146569,0500 162 4987,1
+Laura Moraes,3556588492129024,+55 (011) 0350 0138,1
+Rodrigo Almeida,Android 5.1,Ambientalista,0
+Davi Luiz Almeida,Android 4.2,Flautista,0
+Catarina Farias,2659733957256353,(031) 0618 5574,1
+Vitor Gabriel Pinto,4817243353175301,+55 (021) 9245-9699,1
+João Monteiro,4838335505777143812,+55 (031) 1911 7759,1
+Bruna Campos,3555868764098557,+55 11 0855 4234,1
+João Felipe Nascimento,4399090420626709,(021) 7187 9269,1
+Calebe Mendes,3511527795280450,0300 154 8823,1
+Emanuel Nogueira,Android 10,Lamboteiro,0
+Francisco Gomes,6011812876594617,+55 71 0724-3168,1
+Isabel Castro,4427411006718650,(071) 6028 8224,1
+Otávio Costela,Android 1.5,Servente-de-obras,0
+Natália Oliveira,Android 4.3.1,Sacoleira,0
+João Lucas Cardoso,Android 4.0.3,Engenheiro de petróleo,0
+Ana Luiza Viana,4148620240062,+55 (031) 7097 6473,1
+Davi Castro,Android 3.0,Químico farmacêutico,0
+Kaique Barbosa,4646503196558,11 1264 4386,1
+Luiz Henrique da Rocha,Android 6.0.1,Analista de sistemas,0
+Srta. Letícia Caldeira,Android 4.1,Cientista de alimentos,0
+Breno da Cruz,Android 2.2.2,Jóquei,0
+Nicolas Ramos,4449573961659783,+55 (031) 9478 3467,1
+Rafaela da Cruz,2655456044446464,+55 (021) 6578 2156,1
+Ana Rodrigues,2714418734106930,31 7098 9763,1
+Luana Lopes,3591743551594579,(041) 4422 4372,1
+Isis das Neves,4195648293388479886,0800 522 6010,1
+Enzo Rodrigues,Android 1.1,Coach,0
+Camila da Paz,Android 5.0,Regente,0
+Lavínia Ribeiro,213140873321100,71 6185 4688,1
+Eduarda Farias,3529531113887822,+55 11 6685-4579,1
+Sr. Murilo Araújo,2551028489680488,0800-715-2839,1
+Noah Campos,Android 3.2,Corretor de seguros,0
+Stephany Nascimento,2703588378450522,11 4351 3595,1
+Sr. Anthony Barros,344997485527966,+55 (031) 1089-0603,1
+Ana Beatriz Cunha,6548539889446186,81 3617-0503,1
+Dra. Raquel Ribeiro,3512965120253207,(061) 3172-3455,1
+Esther Nunes,Android 3.2,Consultor de radiestesia,0
+Sarah Rezende,Android 10,Quitandeiro,0
+Lavínia da Conceição,Android 2.3.5,Instrumentador cirúrgico,0
+Enzo Rezende,Android 5.0,Profissional de tecnologia de laticínios,0
+Luiz Miguel Cavalcanti,4270054167437,11 0612 1763,1
+Joaquim Souza,Android 8.1.0,Degustador,0
+Fernanda Moura,Android 7.1.1,Separador,0
+Dra. Alexia Duarte,Android 4.3.1,Patologista oral,0
+Nicolas Novaes,Android 9,Presidente da República,0
+Giovanna da Conceição,6011529711552564,(061) 1388 7453,1
+Fernando Freitas,4271794937816,21 2743-2263,1
+Maria Cecília Fernandes,4815284026585577,+55 11 0616 5745,1
+Sophia Rocha,213185959292790,(041) 7827-2488,1
+Mariana Moraes,Android 4.1,Geriatra,0
+Manuela Porto,Android 3.2.6,Historiador,0
+Sra. Julia Silva,Android 1.1,Engenheiro de produto ou produção,0
+Lara da Luz,4200859068482123917,51 6243 6870,1
+Breno da Rocha,347376670402144,+55 71 9057 0124,1
+Bernardo da Cunha,Android 6.0.1,Odontologista legal,0
+Sr. Yago Barbosa,4104602084137934,41 8032 5515,1
+Stella Cardoso,Android 4.0,Cumim,0
+Luiz Fernando Novaes,213154342809256,+55 (081) 6910-5974,1
+Lívia Rodrigues,2287851886496856,+55 (021) 3884 9138,1
+Isaac Barros,Android 2.2.3,Petroleiro,0
+Esther Melo,Android 3.2.3,Técnico em desporto,0
+Rebeca Almeida,Android 4.4.1,Ufólogo,0
+Igor Ribeiro,4680849672184065,+55 21 9119-5058,1
+Luana Jesus,4497910933633,(011) 3215 5897,1
+Rafaela Moura,Android 7.1.2,Lenhador,0
+Arthur Silva,Android 3.2,Perito judicial,0
+João Lucas Viana,180094912294050,84 0281-5860,1
+Sra. Sofia Lopes,Android 1.6,Empregado doméstico,0
+Lorena da Rosa,Android 4.3,Boticário,0
+Luiz Fernando Aragão,213145674928227,+55 51 7446 5101,1
+Eduardo Peixoto,Android 7.1,Figurinista,0
+Vitória Pinto,Android 4.0.3,Arrumadeira,0
+Sr. Thomas das Neves,Android 4.4.1,Produtor de audio visual,0
+Cauã Monteiro,Android 2.3,Contábil,0
+Luiz Henrique da Cruz,4596155198619557,+55 (051) 3832 5770,1
+Maria Alice da Conceição,4093964432955764048,(041) 3471 3137,1
+Srta. Ana Júlia Barros,4220689246221,+55 61 9018 5058,1
+Nathan Correia,Android 2.3.4,Corretor da bolsa de valores,0
+Agatha Costa,4662752555214661908,+55 81 5148-1909,1
+Maria Vitória Cardoso,4741310250889606,+55 (051) 6155-7937,1
+Ana Lívia da Mata,576822046677,0300-835-7569,1
+Henrique Cardoso,Android 4.2.2,Engenheiro de aquicultura,0
+Maria Clara Ramos,4065712744966155,+55 11 3224-6436,1
+Camila Araújo,639071947514,0900 575 1906,1
+Gabrielly Carvalho,Android 2.3.7,Reumatologista,0
+Sr. Murilo Araújo,4955730870846168,+55 71 3522-3316,1
+Daniel Porto,Android 4.4.4,Ginecologista,0
+Sr. Ryan Barros,Android 2.1,Parteira tradicional,0
+João Vitor Caldeira,4105408873384482,+55 (051) 4585 9980,1
+Pedro Carvalho,30313751345936,+55 (084) 3730-3231,1
+Bruna Cavalcanti,3580607589798820,+55 (051) 6171 1620,1
+Sr. Davi Gomes,5144744565752606,0500-900-7219,1
+Kaique Cunha,4838029026233790170,(051) 1414 6458,1
+Yuri Nascimento,Android 4.3.1,Artista plástico,0
+Luiz Otávio Farias,3551644428199436,(061) 5113-0449,1
+Sra. Mariane da Mata,375723187542182,0300 547 0343,1
+Ana Laura Martins,30476528204619,(071) 1543-3410,1
+Lucas Gabriel Pinto,Android 2.3.3,Técnico em hardware,0
+Ana Júlia Souza,36098534395258,(084) 1919 0421,1
+João Guilherme Ferreira,2228693646731913,(084) 4246 2106,1
+Thales Moreira,3529766786611550,(081) 8462 9331,1
+Murilo da Rosa,573094911498,+55 61 7134-3884,1
+Dr. Luiz Gustavo Nogueira,Android 4.0.1,Estilista,0
+Maria Vitória Oliveira,Android 5.1.1,Técnico em hardware,0
+Juliana Mendes,Android 1.1,Presidente da República,0
+Alice da Costa,Android 4.4,Lutador de luta livre,0
+Sr. Bruno Novaes,Android 3.2.6,Angiologista,0
+Diogo Ferreira,Android 2.2.1,Engenheiro ambiental,0
+Letícia Cavalcanti,3517518634034269,0500-424-9057,1
+Isis Rezende,4712623502961865,+55 (021) 5597-5405,1
+Lucca Dias,180014231816920,(084) 8331 2689,1
+Sr. Diogo Araújo,Android 1.1,Sexólogo,0
+Ana Vitória Lima,6580050999550668,+55 84 7098 5435,1
+Vitor Gabriel Dias,570126659053,+55 81 2530-7537,1
+Luiz Miguel da Luz,Android 4.1.2,Engenheiro de projetos,0
+Nathan Silveira,Android 4.1,Pedagogo,0
+Noah Barros,Android 4.0,Acompanhante,0
+Natália Farias,4457230407180700608,+55 (061) 3850-1013,1
+Matheus Ramos,4728262180185687,11 0037-6315,1
+Sophia Costa,Android 3.2.6,Contador,0
+Melissa Pires,Android 4.0,Conferente de expedição,0
+Sr. Ian da Cunha,4354646217371171619,+55 61 8788 2947,1
+Luiz Fernando Pires,343170167809968,0500 872 2127,1
+Vitor Gabriel Ribeiro,3547833476008915,(021) 5011 0968,1
+Vitor Hugo Barros,Android 9,Lutador de kung fu,0
+Bryan Souza,Android 2.0.1,Piloto de avião,0
+Marcela Cardoso,3583823772101345,(051) 9981 2678,1
+Caroline Pires,Android 7.1.2,Cobrador de pedágio,0
+Dr. Lucas Costa,213188217961107,+55 (021) 7032 1138,1
+Emanuelly Cunha,Android 11,Agrônomo,0
+Fernanda Araújo,Android 6.0,Jardineiro,0
+Natália Carvalho,Android 4.1.1,Arquivista,0
+Enzo da Conceição,Android 2.0,Embaixador,0
+Maria Clara Costa,3512554054921276,31 5863 2604,1
+Lucas Martins,2296409499574236,(021) 0192-0054,1
+Dr. Luiz Gustavo da Costa,Android 4.4,Ventríloquo,0
+Nina Fogaça,3535244231048358,(051) 4463 3196,1
+Davi Luiz Gonçalves,Android 4.2.1,Químico,0
+Davi Lucas Correia,Android 3.2.4,Manicure,0
+Bernardo da Mata,Android 11,Xilógrafo,0
+João Vitor da Rocha,2231640385832845,(081) 4688-1488,1
+Yuri Castro,Android 3.2.4,Gestor de qualidade,0
+João Lucas Pereira,30508952694186,+55 (021) 5098 9081,1
+Cauê Carvalho,Android 10,Administrador de redes,0
+Ana Beatriz Pereira,Android 5.0.1,Cinematográfo,0
+Vitor Hugo Almeida,Android 2.2.3,Pedagogo,0
+Lívia Barbosa,4094968958651,(061) 8306 8949,1
+Gabrielly Gonçalves,3539021298476508,+55 (021) 6796-7823,1
+Sarah Nogueira,36984592274438,+55 (061) 2766-4017,1
+Ian Pereira,6011806651563110,(021) 1329 5887,1
+Fernanda Costa,4800262685711,84 8398-7043,1
+Dr. Levi Cavalcanti,3565247920638101,+55 61 6470-2460,1
+Sra. Stephany Pinto,Android 5.1.1,Fundidor de placa de gesso,0
+Leandro Nascimento,Android 3.0,Engenheiro ambiental,0
+Larissa da Costa,4642262072004417926,0500-446-6134,1
+Ana Clara Cardoso,Android 8.1.0,Médico legista,0
+Lucas Gomes,Android 4.0.4,Adestrador de animais,0
+Ryan Freitas,Android 9,Cinegrafista,0
+Valentina Pinto,Android 10,Engenheiro petroquímico,0
+João Rodrigues,4450216705056,+55 71 4235 0758,1
+Maria Campos,Android 8.1.0,Cambista,0
+Ana Carolina da Rosa,4731860071195524331,+55 (011) 5415 0574,1
+Ana Vitória Oliveira,Android 4.4.3,Técnico em desporto,0
+Fernando Melo,6011094185453021,+55 31 6343-4792,1
+Maria Fernanda Rocha,Android 4.0.1,Técnico em arquivo,0
+Gabriel Cardoso,Android 8.0.0,Designer de jóia,0
+Luiza Sales,Android 2.2,Personal stylist,0
+Dr. Bruno Teixeira,4942222638043375,+55 (084) 2980-6582,1
+Lívia Rezende,6011993137927570,0800-346-2781,1
+Srta. Gabrielly Barros,060424791923,81 9474-8036,1
+Davi Luiz Porto,Android 4.1.1,Produtor de audio visual,0
+Paulo Dias,30296265413409,81 0457-2000,1
+Renan das Neves,180066098622130,61 1023 3708,1
+Caio Porto,Android 4.0.2,Psicopedagogo,0
+Eduardo Costa,213165456197569,(041) 8672 5016,1
+Luiz Miguel Dias,Android 10,Serralheiro,0
+Raquel Mendes,Android 4.0.4,Trompetista,0
+Srta. Eduarda Costa,Android 4.0.4,Produtor de eventos,0
+Noah Silveira,Android 3.2.6,Turismólogo,0
+Amanda Correia,Android 3.1,Funileiro,0
+Stella Rodrigues,Android 2.3,Diretor de cinema,0
+Davi Lucas Silveira,341237091254389,+55 11 1570-7879,1
+Vitor Gabriel Castro,3559457246024138,+55 21 4487 6657,1
+Dra. Heloísa Oliveira,213179463034996,21 5794 2998,1
+Nina Moreira,639023371532,31 7869-2160,1
+Dra. Lara Porto,6541772270948588,(011) 8059 5897,1
+Maria Luiza da Rosa,Android 2.3.1,Investigador de Polícia,0
+Cauã Pereira,Android 7.1.1,Deputado,0
+Noah Freitas,Android 6.0,Tabelião,0
+Laís Fogaça,Android 4.0.4,Encarregado de manutenção predial,0
+Enzo Gabriel Nogueira,375638912035478,+55 81 0948-3110,1
+Nina Nunes,30051700116459,41 6845 7992,1
+Yago Dias,4478970490185,+55 71 4695-2114,1
+Sr. Benício Costela,3588731773684000,+55 71 8590 7096,1
+Maria Cavalcanti,4934397672483138528,(061) 3809-6172,1
+Lucas Gabriel da Cruz,30380072418031,+55 (021) 3740 8133,1
+Dra. Pietra Silveira,Android 11,Tecnólogo em navegação fluvial,0
+Danilo Martins,Android 4.2.1,Pedreiro,0
+Vinicius Pinto,Android 7.1.1,Mensageiro,0
+Thomas Barbosa,Android 2.3.4,Neurocirurgião,0
+Dra. Ana Clara da Rocha,Android 2.2.3,Político,0
+Vitória Pinto,Android 2.3.3,Neurocirurgião,0
+Maria Luiza Ramos,Android 2.3.7,Tecnólogo em produção Sucroalcooleira,0
+Sra. Sabrina Moreira,Android 2.0.1,Topógrafo,0
+Srta. Isabella Barros,Android 5.1.1,Sonoplasta,0
+Antônio Moraes,Android 4.0.3,Perfusionista,0
+Gabriel Almeida,Android 3.2.5,Técnico de gesso,0
+Sra. Beatriz Fogaça,342036142824243,51 4702 3488,1
+Sr. Luiz Fernando Souza,Android 2.3.6,Coordenador,0
+Isabelly Pires,586564500740,0800 430 0684,1
+Clara Dias,Android 4.4.4,Piloto de avião,0
+Lucas das Neves,3550199950855237,0300 817 5110,1
+Isabel da Luz,374874605715602,21 4785-5739,1
+Maria Sophia Nascimento,Android 4.2.2,Fotógrafo,0
+Isabel Barros,Android 3.2.6,Marinheiro,0
+Theo Peixoto,4888391271921787,+55 11 3681-9234,1
+Mariane Gonçalves,4802487642556713242,+55 21 8379 2397,1
+Matheus Campos,Android 4.4.3,Atuário,0
+Ryan da Rocha,675981660409,0300-096-7724,1
+Julia Duarte,180057000658254,(011) 4798 7238,1
+Yasmin Moreira,6011179516007966,+55 84 4313-1931,1
+Cauê Lopes,30591337426987,81 2653 8098,1
+Mirella Ramos,501881185380,+55 71 1472-8497,1
+Srta. Sophie Cunha,Android 3.2,Ginecologista,0
+Ana Dias,4127671677498407543,(011) 0052-9041,1
+Sr. Luiz Fernando Peixoto,4658142594978,0900-555-3102,1
+Sr. Ryan Cunha,4033811940015483,21 2870-4976,1
+Ana Beatriz Cunha,Android 2.0,Radialista programador,0
+Lucas Caldeira,349326246065766,(081) 8375 4964,1
+Carlos Eduardo Duarte,676349697687,61 6747-8045,1
+Isis da Mota,Android 2.3.6,Profissional de efeitos especiais,0
+Sra. Alícia da Mata,Android 2.3.1,Gerente de riscos em seguros,0
+Davi Luiz Jesus,213165755620865,51 6958 3736,1
+Srta. Alexia Rezende,4169409102632447,71 4476 5542,1
+Anthony Monteiro,Android 5.1.1,Baixista,0
+Erick Barbosa,4605064651922,61 4912-4354,1
+Maria Julia Ramos,Android 2.3.4,Radialista programador,0
+Sr. Leonardo da Mata,Android 5.1.1,Biblioteconomista,0
+Maria Luiza Barbosa,3513842678709022,51 4539 6896,1
+Carolina da Costa,Android 6.0,Patologista,0
+João Miguel da Rosa,Android 7.1,Estivador,0
+Isabel da Luz,4534275319386,+55 81 8241 3554,1
+Milena Silva,Android 8.1.0,Cortador de cana-de-açucar,0
+Sr. João Miguel Ramos,373275035148045,+55 (061) 2285-7890,1
+Alice Campos,4570991417429570,(021) 3470 9424,1
+Carolina Almeida,Android 11,Químico,0
+Arthur Carvalho,Android 4.0.3,Transportador,0
+Anthony Rezende,Android 2.1,Karateca,0
+João Miguel Vieira,4257531441170,61 8984-3669,1
+Joana Castro,Android 8.1.0,Numerólogo,0
+Luna Duarte,Android 4.3.1,Guia turistico,0
+Pedro Miguel Fogaça,4898582487712030392,+55 41 8337 4570,1
+Maria Clara da Cruz,Android 2.3.6,Pesquisador,0
+Emilly da Rocha,370267057850189,(081) 4507-0026,1
+Kevin Santos,Android 2.3.5,Neonatologista,0
+Emanuelly Porto,Android 4.4,Engenheiro de som,0
+Srta. Maria Vitória Aragão,213138534505699,+55 (051) 2008 6238,1
+Pedro Lucas Oliveira,4219837596986335,(031) 1555 2423,1
+Ana Julia da Mata,Android 9,Paginador,0
+Elisa Moraes,4537010297767,+55 31 0830-8629,1
+Dr. Rodrigo Porto,4730773718166679282,84 5162 6113,1
+Pietra Azevedo,Android 4.2,Produtor musical,0
+Sr. Luiz Henrique da Cruz,Android 5.0.2,Coveiro/Sepultador,0
+Ana Clara Silva,Android 2.3.2,Faxineiro,0
+Bruna Rodrigues,2254574448249808,+55 (051) 8050 7952,1
+Camila Rezende,Android 3.2,Avalista,0
+Eloah Pinto,Android 3.0,Estilista,0
+Pietro Fogaça,4851142098092473,+55 81 9809 0349,1
+Srta. Maria Eduarda Pereira,376050312769970,71 2824 1605,1
+Diogo Oliveira,Android 2.2,Técnico em higiene dentária,0
+Bruno Martins,Android 2.2,Coordenador,0
+Catarina Pires,Android 2.3,Ginecologista,0
+Igor Nascimento,Android 9,Tosador,0
+Yago Lima,4621225792885,(051) 9463 1666,1
+Marcelo Pereira,375198590279534,+55 81 3762 7613,1
+João Guilherme Carvalho,Android 11,Catador de carangueijos,0
+Augusto Nascimento,Android 5.0,Maestro,0
+Erick da Mata,6507133179177492,+55 (071) 8013 8407,1
+Ana Júlia Oliveira,4532343660971,+55 41 5271 1344,1
+Luigi Moraes,Android 4.2,Amolador de ferramentas,0
+Vitória Dias,3513800137648702,(084) 6164 2149,1
+Joana Caldeira,Android 3.1,Cerimonialista,0
+Emanuella Pereira,2720343161798482,84 0687-1540,1
+Milena da Rocha,3557840905465845,(081) 4908-9093,1
+Otávio Lopes,Android 4.4.4,Restaurador,0
+Sr. Calebe Mendes,4790475756306825,41 0481 6704,1
+Renan Araújo,Android 6.0,Viveirista,0
+Gabrielly Carvalho,Android 7.1.2,Catador de material reciclável,0
+Eduarda Farias,Android 2.3.2,Chargista,0
+Maria Alice Rodrigues,Android 2.3.1,Radialista programador,0
+Sarah das Neves,3509406633492060,+55 (041) 9266-1295,1
+Dr. Pedro Henrique Alves,2601733265737929,41 3586-0197,1
+Yuri Barbosa,341528603104967,+55 (021) 2047 1893,1
+João Vitor Gonçalves,Android 4.1.1,Acompanhante,0
+Lara Oliveira,4239953623659,+55 (071) 5946-2074,1
+Sra. Maria Eduarda Barbosa,Android 2.2.1,Aeroviário,0
+Mariana da Luz,180031394719337,+55 31 8873-9723,1
+Bianca Moura,4961575468054010,51 3228 3431,1
+Letícia Vieira,Android 2.3.2,Tradutor,0
+Nathan Cavalcanti,4211468098970854,0300 730 1935,1
+Bianca Sales,Android 4.2,Contabilista,0
+Maria Cecília da Mota,2641422761656112,71 9036 3910,1
+Maria Sophia Cardoso,676364562196,+55 41 5491 5973,1
+Larissa Azevedo,3586657291227984,(071) 1651-6991,1
+Antônio Alves,30230572284286,+55 51 8061 0544,1
+Carlos Eduardo da Rocha,Android 10,Diplomata,0
+Elisa Monteiro,4003178698785675,0500-950-4735,1
+Dr. Cauê Santos,4786034257578881,+55 51 9754 8447,1
+Caroline Castro,30294504947303,+55 41 5467-0975,1
+Kaique Ferreira,3549142934216021,81 3221-8113,1
+Maria Vitória Moreira,4530192311772288156,41 5820 7055,1
+Clarice Nascimento,30485558819691,21 9738 4981,1
+Nicolas da Cruz,370402319539649,+55 41 3081 7733,1
+Enzo Moraes,Android 2.3,Prensista,0
+Augusto Teixeira,Android 3.2.5,Pecuarista,0
+Dra. Eloah Mendes,501838150503,0900 732 8414,1
+Gustavo Vieira,Android 5.0.1,Profissional de relacionamento com investidores RI,0
+Emanuelly Silveira,Android 2.2.2,Geógrafo,0
+Isaac das Neves,Android 2.3,Profissional de relações públicas,0
+Eduarda da Rocha,Android 5.1,Gestor de tecnologia da informação,0
+Maria Cecília da Mota,5229588065429027,+55 84 5634 8442,1
+Lucas Gabriel Barros,Android 10,Pára-quedista,0
+João Lucas Freitas,Android 2.0,Astrônomo,0
+Sr. Enrico da Costa,Android 2.3.5,Subprefeito,0
+Ana Mendes,584200194333,+55 (031) 2599-7383,1
+Clarice Almeida,Android 10,Grafologista,0
+Dr. Henrique da Costa,6011009457709256,+55 41 5542-5850,1
+Juliana da Luz,Android 2.3.6,Produtor editorial,0
+Dra. Daniela Rodrigues,Android 2.3.7,Engenheiro de energia,0
+Enzo da Cunha,Android 2.3.2,Modelista,0
+Gabriel Correia,6011563800741986,(081) 2482 9372,1
+Marina Novaes,213115467406830,0900 572 8584,1
+Dra. Alexia Rodrigues,Android 3.2.1,Tecnólogo em Ciências das plantas medicinais,0
+Clara Gonçalves,4196455675159414,31 5533 5865,1
+Sra. Ana Julia Barbosa,4202791479003842,(084) 2250 1484,1
+João Lucas Santos,38483347038428,+55 84 6254-0732,1
+Gustavo Nunes,30133463161235,+55 71 9461-0295,1
+Sr. Renan Jesus,Android 3.2.5,Dublador,0
+Heitor da Mata,Android 2.1,Avalista,0
+Benício Cunha,Android 4.1.1,Cartógrafo,0
+Luna da Conceição,Android 2.2,Sonoplasta,0
+Ana Beatriz Duarte,Android 3.2.5,Agente de defesa sanitária,0
+Danilo Aragão,213119846672096,0900-711-7792,1
+Ana Sophia Nunes,Android 2.3.4,Embalador,0
+Clarice da Luz,Android 3.2,Naturólogo,0
+Dr. Luiz Otávio Cunha,5554423929919507,31 0337 9692,1
+Levi Costela,639069697204,(061) 5193-7901,1
+Sr. Francisco Nogueira,502051491327,(031) 1390-7247,1
+Srta. Laura Ramos,2268447810404463,+55 (011) 9007-4950,1
+Emanuella Almeida,Android 2.3.3,Mergulhador,0
+Isis da Rocha,Android 4.4.1,Necromaquiador,0
+Gustavo Caldeira,Android 4.0.4,Médico nuclear,0
+Thales da Cunha,Android 8.1.0,Segurança particular,0
+João Vitor Martins,30176761425901,(041) 5446 1704,1
+Thomas Nogueira,2277604726738504,+55 (011) 7547-9218,1
+Eloah Souza,Android 2.2.1,Costureira,0
+Gustavo Henrique Azevedo,Android 2.3.3,Cineasta,0
+Olivia Cunha,4714177190326020,+55 21 6761 8007,1
+Sr. Carlos Eduardo Silveira,379964609540026,81 5820-7111,1
+Ana Freitas,Android 1.5,Produtor de eventos,0
+Henrique Gonçalves,Android 4.2,Ilustrador,0
+Alana Pinto,180078782937336,(011) 3087 1590,1
+Ana da Luz,4346940999876,(061) 4779 6460,1
+André Azevedo,Android 4.4.3,Tecnólogo em tecnologia da madeira,0
+Sarah Vieira,Android 3.2.6,Borracheiro,0
+Caroline Rezende,562255388430,+55 (021) 3910 9424,1
+Luigi Lopes,630480689896,51 0732 9823,1
+Dr. Bruno Ramos,Android 6.0.1,Obstetra,0
+Clara Viana,213111935762847,+55 84 3921-0409,1
+Caroline Moreira,Android 3.2.2,Serventuário,0
+Maria Cecília Almeida,3530221759035954,21 1868-1888,1
+Raul Nascimento,6011362797512892,0300 722 1806,1
+Bryan Sales,Android 2.3.2,Catador de material reciclável,0
+Daniela da Conceição,30176056074307,41 9184-9884,1
+Breno Nogueira,Android 11,Representante comercial,0
+Sra. Clara Aragão,Android 1.6,Laboratorista,0
+Emanuel Teixeira,213163949144165,(084) 5353 5603,1
+Leonardo Viana,Android 4.0,Numerólogo,0
+Esther da Mota,Android 5.0,Navegador,0
+Catarina Gomes,3568996685857564,+55 (011) 0862 3473,1
+Melissa Moraes,Android 4.1.1,Soldador,0
+Emilly Fernandes,4793209100755496075,(084) 7948-5006,1
+Cauê da Costa,Android 1.1,Amolador de ferramentas,0
+Cauã Costa,675917508219,51 1714 7544,1
+Ian Melo,30421886579996,+55 (021) 7264 0565,1
+Stella da Cunha,Android 3.1,Inspetor,0
+Dr. Juan Viana,Android 4.2,Pecuarista,0
+Daniel Campos,3555389564074433,+55 (061) 3656-5827,1
+Sra. Júlia Ferreira,Android 5.0,Peão de rodeiro,0
+Nina Melo,Android 2.3.7,Treinador,0
+Manuela Mendes,Android 3.0,Mototaxista,0
+Ana Clara Santos,36818523713280,+55 51 6157 6539,1
+Anthony Aragão,Android 1.1,Agrônomo,0
+Dr. Gustavo Moreira,Android 2.2.2,Coordenador,0
+Nicole Azevedo,Android 3.2.6,Astrofísico,0
+Laura Martins,Android 4.2.1,Neurologista,0
+Rodrigo Freitas,4774045049919583,0900-279-4363,1
+Gustavo da Mota,Android 2.1,Bombeiro,0
+Felipe Moura,4375800110100,(021) 8048-1799,1
+Daniel da Luz,502025341624,(031) 3711-7475,1
+Marina da Mata,2707335005604881,21 5120 4368,1
+Diego Rodrigues,Android 2.3.4,Arrumadeira,0
+Davi Lucas Ribeiro,2230601710889463,41 6520 0469,1
+João Felipe Fernandes,Android 5.1,Manobrista,0
+Lívia Moreira,6547786534135307,21 6081 3412,1
+Sr. Vicente Costa,Android 2.3.1,Massagista,0
+Letícia Barros,4821981477765804,+55 (061) 5271-7735,1
+Sra. Rebeca Martins,Android 4.4.3,Engenheiro de aquicultura,0
+Natália Nascimento,4674591152259,+55 (061) 9524 0917,1
+Juliana da Cunha,Android 6.0,Assistente de câmera,0
+João Almeida,180077140829482,+55 (084) 9821-0745,1
+Gabriela Martins,3511943524180079,0800 314 0815,1
+Milena Azevedo,Android 4.2,Esgrimista,0
+Sra. Heloísa Lopes,Android 2.3.2,Controlador de vôo,0
+Marina Monteiro,Android 4.0.1,Engenheiro têxtil,0
+Vitor Gabriel Azevedo,Android 3.2.1,Cobrador de pedágio,0
+Breno Pires,5169152701241460,0300-835-9339,1
+Gabrielly da Costa,Android 1.6,Astrólogo,0
+Clarice Melo,180039826178774,81 8646-1109,1
+Marcos Vinicius Mendes,575923707377,(081) 9125-1091,1
+Giovanna da Conceição,Android 4.4.4,Dogueiro,0
+Alexia Dias,562360468382,+55 71 5106 9228,1
+Bruno Moreira,Android 2.2.1,Analista de sistemas,0
+Dra. Larissa Fogaça,3528771900802698,+55 (081) 1482 4960,1
+Ana Vitória Duarte,Android 5.1,Pintor,0
+Guilherme Martins,Android 5.0.2,Delegado,0
+Eduarda Pereira,Android 7.0,Terapeuta Holístico,0
+Esther Correia,Android 2.3.6,General,0
+Luiz Miguel Carvalho,Android 4.4.3,Geógrafo,0
+Beatriz Pereira,Android 3.2.1,Profissional de cinema,0
+Camila da Rocha,4918117344805267,+55 (021) 5418 2910,1
+João Miguel Viana,Android 4.2.1,Engenheiro de iluminação,0
+Dr. Davi Luiz da Cunha,Android 3.2.2,Sushiman,0
+Agatha Alves,Android 5.1,Tecnólogo em recursos pesqueiros,0
+Melissa Sales,3523742747428935,+55 (071) 0022-5792,1
+Enrico Costela,3528910822314636,0500 123 2310,1
+Elisa Aragão,4789062645332,31 4905 1367,1
+Gabriela da Luz,4006800889249859,+55 31 5899 5705,1
+Vitória da Rosa,4626741435586172,+55 51 0892 7760,1
+Sr. Pedro Henrique da Mota,213142006927662,+55 (081) 0824 5438,1
+Alana Pereira,3564859311030945,+55 (051) 0163-7624,1
+Davi Lucca Rezende,Android 4.2.2,Lavador de veículos,0
+Maitê Novaes,4194597210172259781,(081) 6379-4141,1
+Bianca Lopes,3581829728490908,84 3697-7808,1
+Luiz Felipe Nogueira,4655730534031319389,+55 61 0820-0097,1
+João Vitor Lopes,3536286581370352,+55 (041) 4683-7972,1
+Antônio Silva,Android 5.1,Telefonista,0
+Rodrigo Ferreira,6011396309796171,0500-208-7744,1
+Lavínia Alves,Android 4.2,Paginador,0
+Rodrigo Silva,Android 1.6,Seguidor de compras,0
+Ana Lívia Araújo,375565445137713,(081) 9491-4266,1
+Sr. Igor Jesus,Android 2.3.3,Fonoaudiólogo,0
+Luiz Miguel Correia,Android 3.2.4,Engenheiro de controle e automação,0
+Lucas Gabriel Cardoso,2338209476126814,(061) 0530 2325,1
+Dra. Lara Caldeira,676320476507,+55 11 3938-8688,1
+Pedro Lucas Porto,Android 2.1,Conferente de expedição,0
+Esther Alves,Android 3.2.6,Engenheiro de iluminação,0
+Lucas Fogaça,4679920465710,+55 (071) 4540-9746,1
+Lucca Novaes,Android 11,Contábil,0
+Rebeca da Cunha,6554008572955979,(081) 9599-5575,1
+Sr. Carlos Eduardo Moraes,3561701895299749,+55 (031) 3274 5014,1
+Sophie Nogueira,Android 4.1.1,Carpinteiro,0
+Dr. Samuel Nogueira,Android 3.0,Prensista,0
+Nina Silveira,342971217342137,+55 31 6148-9591,1
+Davi Farias,Android 3.2.3,Mágico,0
+Yuri Ramos,213150775268887,51 9604 0188,1
+Diego Castro,4909085350774779,+55 84 3060-9738,1
+João Farias,Android 2.2.1,Representante comercial,0
+Vitor Pereira,4325247044065,+55 51 3326 4112,1
+Daniel Fogaça,38345725910645,(031) 0781 3826,1
+Dra. Laura Monteiro,30240681828709,+55 (084) 4014 1791,1
+Bianca Fogaça,Android 4.4.2,Militar do Exército,0
+Lara Fogaça,Android 4.1.1,Astrofísico,0
+Marcos Vinicius Souza,Android 2.0.1,Percursionista,0
+Emilly Viana,Android 1.5,Transportador,0
+Emanuel Gomes,Android 3.2.5,Gari,0
+Erick Fernandes,503856758084,+55 (011) 9770-2978,1
+Sophia Rezende,370592622372256,+55 (084) 7222-4305,1
+Sr. Luiz Miguel da Luz,Android 7.1,Publicitário,0
+Alexandre Teixeira,Android 3.2.4,Musicoterapeuta,0
+Luiz Fernando Almeida,4661142195754,31 8267 2590,1
+Igor Jesus,Android 2.3.7,Perito criminal,0
+Dr. Marcelo Jesus,Android 3.2,Peixeiro,0
+Joana Cavalcanti,Android 1.6,Adestrador de animais,0
+Fernanda Sales,Android 2.3.4,Enfermeiro,0
+Maria Alice Mendes,374249699708948,11 7211 6467,1
+Ana Carolina Castro,Android 11,Barman,0
+Mariane Araújo,Android 5.1,Cientista de alimentos,0
+Stella da Luz,6011491276412835,51 4644 4733,1
+Valentina Duarte,6011339442987752,81 2312 4779,1
+Yasmin Rocha,6011655531206774,+55 (011) 3492-0618,1
+Sr. Samuel Martins,3516751279453665,81 6595-6302,1
+Luana Mendes,3568845988378978,21 6494-4501,1
+Luigi Silveira,30435666734555,+55 71 5239 5678,1
+Alana Nogueira,Android 2.3.7,Coronel,0
+Natália Mendes,Android 2.3.3,Governador,0
+Emanuelly Campos,Android 2.1,Corretor de imóveis,0
+Esther Nunes,676114236851,(084) 0219-4519,1
+Erick Gomes,Android 4.4.3,Tatuador,0
+Sr. Joaquim Teixeira,Android 3.0,Inspetor,0
+Kevin Dias,4827038419000560,+55 (021) 0525-0950,1
+Srta. Stella Carvalho,3575331229609548,+55 21 4805 6183,1
+Alana Nogueira,Android 5.1,Contador,0
+Gabriel Farias,Android 4.4,Corredor de atletismo,0
+Miguel Peixoto,Android 3.2.6,Estoquista,0
+Augusto da Rocha,213169075415170,0800 978 1106,1
+Alexia Jesus,Android 1.1,Engenheiro florestal,0
+Dr. Ian Vieira,Android 2.3.3,Telegrafista,0
+André Jesus,345598274577144,41 1114 1736,1
+Luiz Henrique Oliveira,Android 3.2.1,Patologista,0
+Pedro Nogueira,Android 4.4.4,Escrivão,0
+Agatha Fernandes,4071474244529,(041) 8139-9912,1
+Samuel Silva,6539595676204114,61 9718 5940,1
+Marcela da Cunha,Android 2.3.2,Panfleteiro,0
+Pietro Ramos,4339313756862976,71 2451-1530,1
+Cecília Ferreira,Android 1.6,Embalador,0
+Kaique Monteiro,5123905776748205,(041) 8241 2759,1
+Luana da Cruz,Android 2.1,Aeromoça,0
+Alícia da Cunha,Android 2.3.1,Tradutor,0
+Yuri Rezende,3500203162381007,(061) 7537 0337,1
+Theo Correia,4084132224232629383,31 9577-8460,1
+Luiz Otávio Costa,4840450662413759,11 2420-1554,1
+Mirella Martins,30124960161687,0900 842 3309,1
+Sr. Thomas Mendes,Android 3.2.3,Estilista,0
+Isabel Lima,6533211557880222,61 4066-4156,1
+Catarina Peixoto,Android 1.5,Leiloeiro,0
+Dr. Paulo Rocha,4385140958156359,+55 (011) 8629-7043,1
+Sr. João Guilherme Costa,4521732842589317776,(051) 0627-7001,1
+Isadora Campos,4434356301879080,+55 41 5469 5617,1
+Kamilly Ramos,4112473052453,(061) 8298 6308,1
+Caroline da Costa,Android 3.2.2,Leão de chácara,0
+Raquel Rocha,2228202653737977,41 0778 6925,1
+Nicolas Nascimento,6011343809287186,+55 11 2965-8563,1
+Pedro Campos,Android 4.4.2,Faturista,0
+Srta. Ana Nunes,503850442131,+55 (011) 1353 9968,1
+Dra. Larissa Costela,Android 4.0.4,Otorrinolaringologista,0
+Lavínia Duarte,Android 2.3,Editor,0
+Igor Ribeiro,Android 3.2.4,Fundidor de placa de gesso,0
+Dra. Clarice da Mota,Android 5.0.1,Modelo,0
+Laís Alves,675970254396,+55 (021) 3828 5648,1
+Nicole Correia,4098715660464353,51 6872 9033,1
+Larissa Alves,4582232364762226,+55 (061) 5186-8676,1
+João Felipe da Rocha,Android 2.3.7,Perito judicial,0
+Sr. Yuri Ramos,4826149057051897,(071) 2732 2964,1
+Lara Cardoso,3569681279217594,41 1970-6883,1
+João Pedro Carvalho,Android 4.2.1,Tecnólogo em esporte e lazer,0
+Maria Vitória Barros,Android 4.2.2,Síndico,0
+Guilherme Rocha,Android 2.0.1,Contador,0
+Samuel Moraes,Android 2.3.3,Mestre cervejeiro,0
+Camila Martins,341768856145545,+55 31 6770-2212,1
+Caio da Conceição,Android 7.1,Tecnólogo em silvicultura,0
+Diogo Moura,4588151537214,81 9842 8952,1
+Anthony Nascimento,343851245848157,0800 002 5220,1
+Ryan Souza,213122172328895,(081) 0386 6241,1
+Isaac da Mota,Android 2.3.2,Numerólogo,0
+Sr. Igor da Rocha,Android 4.4.3,Bailarina,0
+Dra. Bianca Mendes,Android 3.0,Estofador,0
+Maria Alice da Cruz,Android 2.0.1,Mototaxista,0
+Nicolas Rezende,Android 8.0.0,Imunologista,0
+Yago Vieira,4787641426479608,(061) 3765-1639,1
+Arthur da Rosa,2297129634327162,51 8758 5651,1
+Renan Moreira,Android 6.0.1,Veterinário,0
+Dr. Diego Farias,213138241335885,+55 71 9789 2134,1
+Dra. Mariane Aragão,501830063951,+55 81 5551 6517,1
+Ian Melo,374632649904149,+55 (081) 8629 0730,1
+Breno Sales,Android 11,Antropólogo,0
+Murilo Correia,Android 2.3.7,Engenheiro físico,0
+João Vitor Santos,639051298904,84 5124-0395,1
+Ana Júlia Mendes,589069117416,84 7575-6068,1
+Ana Vitória Freitas,Android 10,Mágico,0
+Ana Luiza Rezende,2232807302263409,+55 84 3465-1011,1
+Samuel Novaes,5140299774045262,+55 31 4306 6045,1
+Joaquim Nunes,3513425587098461,11 0154-2531,1
+Maria Alice Fernandes,Android 6.0,Sonoplasta,0
+Noah Ribeiro,Android 6.0.1,Frentista,0
+Sra. Elisa Rocha,Android 7.1,Gastroenterologista,0
+Clarice Lopes,4724763204263750,(081) 6843-5894,1
+Luana Barbosa,2229752316992608,+55 (061) 0147 2111,1
+Lara Mendes,Android 4.4.3,Penhorista,0
+Marcos Vinicius Pires,213144171601338,0300 111 9619,1
+Ana Luiza Barros,180039958392912,0800-590-3556,1
+Henrique Nogueira,4530861970218331,(071) 8419 1417,1
+Sr. Anthony Cavalcanti,36067846651062,0900 591 9926,1
+Kaique Porto,180029833014989,0900-583-4846,1
+Bernardo Moraes,Android 2.1,Juiz de futebol,0
+Luiz Otávio Monteiro,Android 4.4.3,Hematologista,0
+Isabelly Azevedo,Android 2.3,Engenheiro de materiais,0
+Srta. Joana Almeida,4859995555886741,+55 51 2026 1305,1
+Fernanda Santos,Android 5.1,Violonista,0
+Yasmin Araújo,3509512303278257,(084) 9887-2662,1
+Gabriel Monteiro,Android 4.0.2,Paginador,0
+Marcela Souza,630490323049,+55 41 5606-0568,1
+Heloísa Barros,Android 4.0.3,Optometrista,0
+Daniel Novaes,Android 4.1,Epidemiólogo,0
+Ana Júlia Oliveira,4746249705920654,(031) 4263 9547,1
+Bernardo Campos,Android 3.1,Entalhador,0
+Dra. Stephany Cardoso,3541544114512574,+55 31 2856 0952,1
+Maria Eduarda Almeida,676350316714,(061) 2023-1965,1
+Srta. Nicole da Paz,Android 6.0.1,Implantodontista,0
+Sra. Helena Aragão,2315328286698916,41 8910 8899,1
+Marina Gonçalves,2254697372452229,+55 (061) 0852-9245,1
+Dr. Enrico Carvalho,4042083023459959,(061) 4902-3216,1
+Laís Carvalho,372194773380275,+55 (031) 6621-9767,1
+Ana Julia Rodrigues,3500378398416890,+55 21 6584-6481,1
+Antônio Ramos,4046895395047369,+55 21 4488 9861,1
+Vitória Sales,372640661551385,+55 81 1653 1991,1
+Dr. Leandro das Neves,4633880084417,+55 81 2102-8130,1
+Dr. Guilherme Barbosa,4689348324154262,(071) 2985 5300,1
+Cecília Teixeira,Android 4.4.1,Profissional de relações internacionais,0
+Calebe Costela,213131956201939,+55 (084) 5501 7952,1
+Cauê Vieira,Android 4.2,Prefeito,0
+Sofia Moraes,Android 1.1,Corretor de seguros,0
+João Felipe da Mata,180013353391316,61 4322 1526,1
+Raul Santos,4035391652710264752,0300 106 6969,1
+Júlia Pires,Android 3.1,Aeroviário,0
+Sra. Alexia Lopes,Android 4.4.2,Figurinista,0
+Laura Azevedo,Android 2.2,Engenheiro de controle e automação,0
+Dra. Ana Júlia da Mata,Android 10,Agente de combate à endemias,0
+Laís Dias,Android 2.3.6,Leiloeiro,0
+Dr. Rafael Silva,3501044807809104,81 8398-9139,1
+Yuri Nascimento,Android 4.1.2,Contra regra,0
+Beatriz Rodrigues,2246519826116245,31 5096-2230,1
+Alana Teixeira,3558671427079858,+55 (031) 9051 2509,1
+Marcelo Oliveira,Android 6.0,Bibliotecário,0
+Dr. Yago Novaes,180037344149244,0900-686-3690,1
+Isabelly Teixeira,Android 4.1,Agente funerário,0
+Sr. Gustavo Henrique Ribeiro,4473737568688409,0800-080-6504,1
+Olivia da Paz,5435767414751972,61 8669-2860,1
+Vicente da Rosa,Android 4.0.2,Digitador,0
+Bryan Correia,Android 7.1,Gastrônomo,0
+Luiz Otávio Melo,3553643081185235,+55 84 4557-7371,1
+Dra. Maria Luiza Vieira,4132426358808816131,0800-459-6004,1
+Caroline Melo,Android 11,Auxiliar administrativo,0
+Dra. Isabella da Mota,502009887733,+55 (061) 2737-4149,1
+Júlia Costela,36243766127371,61 1709-7088,1
+Maria Luiza Viana,Android 3.2.6,Mágico,0
+Sabrina Silveira,Android 4.1.1,Apontador de mão-de-obra,0
+Isabella da Cunha,Android 2.0.1,Médico cirurgião,0
+Vitor Nunes,Android 2.2.1,Traumatologista,0
+Lucca Melo,Android 3.0,Economista doméstico,0
+Laís Gonçalves,4149535470778,0300 545 8838,1
+Noah Ramos,4764686583046887,+55 51 1139 7466,1
+Isaac Carvalho,3570739983748838,21 7418-8049,1
+Brenda Azevedo,30084261014367,+55 51 4253 2022,1
+Ana Lívia Rocha,Android 2.3.1,Tecnólogo em tecnologia da madeira,0
+João Lucas Ramos,4525446401301,61 1539-0161,1
+Vitor Gabriel da Costa,Android 2.3.1,Revisor,0
+Maria Sophia da Rocha,Android 2.3.5,Engenheiro industrial,0
+Miguel Castro,3549661696004754,0500 239 2867,1
+Augusto Porto,340008841278577,81 7754 3861,1
+Bernardo Rocha,Android 8.1.0,Fonoaudiólogo,0
+Camila das Neves,Android 7.0,Assistente de direção,0
+Sr. Davi Lucas Castro,Android 2.0.1,Jogador de handebol,0
+Henrique Ribeiro,213195363167421,(061) 8231-6284,1
+Juliana Cardoso,30387719731429,(061) 7042-4427,1
+Dr. Paulo Farias,Android 2.2.3,Especialista em agronegócios,0
+Dr. Lucca da Rocha,3527006821711616,31 1423 5656,1
+Erick da Luz,Android 2.3.3,Datilógrafo,0
+Sr. Enrico Sales,3530434221427366,+55 (041) 5943 5352,1
+Nina Rezende,180066586745963,21 9795 3408,1
+Renan Cavalcanti,Android 4.4.1,Profissional de hotelaria,0
+Alícia Barros,582388865989,21 3611 1811,1
+Leonardo Rocha,373948550801947,(071) 4625-9830,1
+Dr. Rafael Alves,4872026733690590,+55 11 8533-4765,1
+Calebe Vieira,2259715231505808,+55 (021) 7904 7486,1
+Marina Barbosa,Android 2.3.5,Diretor de cinema,0
+Dr. Theo Silva,3548097345282098,(051) 5446-8011,1
+Maria Sophia Castro,4822219197746989924,(071) 6172-7913,1
+Isabelly Ramos,Android 5.0.2,Gravurista,0
+Henrique Gomes,4899375522258,71 5732-1733,1
+Heloísa Nogueira,5462141882331178,+55 41 6694-1441,1
+Mirella Ferreira,Android 5.0.2,Grafologista,0
+Joana da Luz,Android 3.2.1,Caldeireiro,0
+Cauã Rezende,2720082336622348,(061) 2994-6832,1
+Ana Clara Rocha,Android 6.0,Armeiro,0
+Marcelo Moreira,4344340998365024,(051) 9106 6713,1
+Luna Duarte,Android 4.2.2,Hostess,0
+Davi Lucas Peixoto,Android 4.0.1,Endodontista,0
+Laura da Costa,Android 2.0,Radiologista,0
+Dr. Joaquim Peixoto,Android 5.0.2,Ferreiro,0
+João Miguel Pinto,Android 4.1,Encanador,0
+Pedro Moura,Android 3.1,Regente,0
+Isabel Cunha,4430366331188844,+55 (081) 5525-5041,1
+Theo da Cunha,Android 7.1.1,Retificador,0
+Lucas Gabriel Rocha,Android 1.1,Ilustrador,0
+Renan Lima,370902647441582,84 3802 8769,1
+Kevin da Cruz,Android 4.0.3,Pedicure,0
+Dra. Amanda Lopes,6511265648015004,+55 21 9394 7913,1
+João Vitor Sales,30584232648409,(051) 3543 7553,1
+Srta. Isabel Gonçalves,3565587722616338,+55 (084) 1076 5795,1
+Luiz Felipe da Luz,213175234429549,+55 (071) 6117 0858,1
+Thales Mendes,4100556009910532,11 4172-0276,1
+Maria Vitória Pinto,180030462073619,+55 71 5823-8447,1
+Ana Julia Sales,6553070908987861,+55 (061) 1983 2383,1
+Lucas Gabriel Gonçalves,213132736648712,21 4601-0950,1
+Ian Almeida,5132477878399054,41 2474 0576,1
+Daniela Oliveira,3533828493513927,81 6003 0503,1
+Mariane Barros,Android 7.1,Assistente de produção,0
+Isis Nogueira,345324539146173,(081) 2245-0775,1
+Maria Fernanda Freitas,213188592298455,(084) 1504-4020,1
+Isadora Peixoto,6011455242167336,+55 (021) 4862-1108,1
+Sarah Oliveira,Android 4.4.2,Atleta de arremesso de peso,0
+Lorena Dias,Android 2.2.2,Tecnólogo em geoprocessamento,0
+Rafael Ramos,Android 3.2.2,Restaurador,0
+Vicente Mendes,Android 3.1,Radiologista,0
+Pedro Lucas Vieira,Android 1.1,Jogador de bocha,0
+Kevin Araújo,4275808983588571,0900 845 7809,1
+Joaquim da Mata,Android 4.3.1,Funileiro,0
+Ana Sales,Android 4.0.4,Educador integrado à saúde pública,0
+Sra. Bruna Rodrigues,3522493087137097,11 5660-3423,1
+Ana Sophia Rezende,3515696383403315,(021) 9482-8000,1
+Manuela Barbosa,30549193845526,0900-666-3657,1
+Dra. Isadora Alves,4891573656423173131,0300-400-4766,1
+Dr. Daniel Castro,4052993981943942,(041) 1665-9460,1
+Cauã Carvalho,Android 2.0.1,Produtor de eventos,0
+Dra. Milena das Neves,4253912373063140,84 9236 1595,1
+Lara da Luz,Android 4.1.2,Paginador,0
+Pedro Miguel Almeida,4800597693687,+55 (021) 4455 6675,1
+Enrico Freitas,Android 4.4,Assessor de imprensa,0
+Enzo Nascimento,Android 5.1,Lavador,0
+Lucca Moraes,373557436118184,+55 84 2164-8239,1
+Gustavo Martins,377124660460315,84 3487-6355,1
+Catarina Rezende,6011701764196397,+55 (031) 1588-1770,1
+Sr. Henrique Fernandes,Android 4.3.1,Biotecnólogo,0
+João Felipe da Mata,Android 4.0.1,Editor de mesa de corte,0
+Juliana Viana,Android 4.4.4,Jogador de boliche,0
+Srta. Yasmin Moreira,630404506077,71 8613-5486,1
+Dr. Otávio Moreira,370044620942383,+55 (041) 3735-0136,1
+Antônio Moreira,180095294489689,(041) 3934 8685,1
+Sra. Lorena Melo,346942832933903,0800 229 3052,1
+Ana Lívia Barbosa,4632641063916661,(011) 2475 2977,1
+Pedro Miguel Ribeiro,Android 2.3.7,Fundidor de placa de gesso,0
+Maria Fernanda Martins,3540662512493519,+55 81 1102 4214,1
+Srta. Lorena Lima,3546812720675647,31 0358-1111,1
+Ana Luiza Azevedo,Android 2.3.7,Servente-de-obras,0
+Dr. Marcelo Araújo,676349176559,+55 (081) 6555-6107,1
+Matheus Nunes,6565054305495690,(041) 5719-7271,1
+Laura Lima,Android 2.3.6,Governador,0
+Larissa Ferreira,Android 1.6,Antropólogo,0
+Dra. Ana Beatriz Oliveira,6011065833786350,+55 (041) 0323 8129,1
+Nicolas Teixeira,3598461237366808,+55 21 8472 1974,1
+Elisa Martins,Android 2.2,Engenheiro naval,0
+Elisa Cardoso,213190004734127,+55 (071) 2081-4888,1
+Giovanna Souza,Android 7.1.2,Locutor,0
+Yuri Fernandes,676138257396,+55 71 1176 1053,1
+Bianca Rezende,Android 8.1.0,Técnico em óptica,0
+Sr. Luiz Otávio Sales,675998093321,+55 81 5463 5079,1
+Ana Beatriz Araújo,Android 4.4,Coloproctologista,0
+Dr. Arthur da Rocha,Android 3.2.1,Empresário,0
+Carlos Eduardo da Cruz,213103152014895,41 1513-6522,1
+Lucas Gabriel da Mota,Android 3.2.2,Estofador,0
+Gabrielly da Rocha,639091847108,(071) 6615 5275,1
+Sr. Bryan Porto,4220879020571603,71 5976-7991,1
+Maria Sophia Fernandes,4045708959796639,81 4834 3110,1
+Dr. Pietro Costela,Android 4.2,Compositor,0
+Maysa Ferreira,3524738510600188,+55 11 7348 3035,1
+Felipe Rocha,3549598793861621,41 8155 3791,1
+Alexia Monteiro,675950405547,0500-293-0571,1
+Milena Barbosa,Android 2.1,Engenheiro de supply chain ou logística,0
+Camila da Luz,Android 4.3,Jogador de badminton,0
+Maria Julia Gomes,Android 1.6,Matemático,0
+Luiz Miguel Teixeira,Android 1.1,Engenheiro ambiental,0
+Daniela Nunes,Android 2.2.2,Profissional de áudio,0
+Dr. Noah Pinto,Android 7.1.1,Administrador de banco de dados DBA,0
+Vicente Novaes,Android 5.0.2,Apontador de mão-de-obra,0
+Luigi Almeida,Android 5.1,Marinheiro,0
+Ana Luiza da Mata,Android 4.1.2,Arrumadeira,0
+Amanda da Paz,370148560476755,(021) 6458 0379,1
+Alexia Pinto,4862964468645781149,61 5376-1586,1
+Anthony Duarte,340134875595007,(031) 2729-9445,1
+Milena Martins,30549845714005,11 8501 1350,1
+Clara Ramos,346284578850912,(011) 6982-2304,1
+Maria Rezende,Android 5.0.2,Instrumentista musical,0
+Luiz Felipe Viana,4918643675795,+55 (081) 9045 1689,1
+Gabriela Barros,4843150917671,+55 (061) 5033-7891,1
+Kevin Nunes,Android 4.3,Capoeirista,0
+Catarina da Luz,Android 2.3.2,Cerimonialista,0
+Lucca Barbosa,Android 3.2.3,Designer de produto ou desenhista industrial,0
+Cecília Almeida,Android 2.2.3,Agrônomo,0
+Ana Sophia Jesus,Android 2.1,Bioquímico,0
+Mariana da Costa,4367588251459007,+55 21 2800 0685,1
+Lívia Ramos,Android 2.2,Economista doméstico,0
+Ana Carolina Rodrigues,4829833134040,41 5750-1643,1
+Sabrina Castro,Android 10,Co-piloto,0
+Theo da Rosa,4121154716468,(041) 5748 4965,1
+Davi Lucas Araújo,Android 4.0.4,Apresentador,0
+Laura Gomes,30475314176007,+55 51 6527 0352,1
+Otávio Cardoso,342397337921917,(081) 2636 3648,1
+Yuri Dias,676287881673,(021) 7958-3480,1
+Ana Carolina das Neves,Android 1.5,Transportador,0
+Alexandre Fogaça,346978783687049,+55 41 5168 8710,1
+Antônio Dias,Android 4.4,Serventuário,0
+Luigi Costa,6011151978196496,+55 (051) 0645 0146,1
+Nicole Cardoso,Android 1.5,Ambulante,0
+Mirella Pires,Android 4.4,Serralheiro,0
+Luiz Gustavo Farias,4388480384479216,(051) 9100-5361,1
+Isabel da Cunha,4023080364757853,(021) 9317-9278,1
+Daniel Porto,3575531944220006,(071) 0789 7002,1
+Vicente Jesus,Android 2.3.5,Músico,0
+João Correia,Android 4.0.2,Político,0
+Dr. Breno Cunha,Android 6.0.1,Chargista,0
+Sr. Leonardo Porto,Android 8.0.0,Enfermeiro,0
+Joaquim Moraes,Android 1.5,Estampador de tecidos,0
+Luna Dias,4287755000659,(031) 7105-0026,1
+Maria da Cruz,30428173880086,(011) 5051-1799,1
+Davi Lucas Pereira,Android 7.1.1,Musicoterapeuta,0
+Davi Lucas Teixeira,Android 5.1,Gestor de qualidade,0
+Sr. Marcos Vinicius Fogaça,30010639435422,21 9334 1834,1
+Bianca Moreira,Android 2.2.3,Guardador de veículos,0
+Ana Beatriz Silva,Android 4.1.1,Intérprete de Bíblias,0
+Pedro Lucas Ribeiro,Android 1.5,Boxeador,0
+Daniela Duarte,Android 4.4.2,Torneiro mecânico,0
+Natália Gonçalves,180018768684411,51 9809 1629,1
+Dr. Renan Correia,Android 7.0,Notário,0
+João Lucas Duarte,Android 4.1.1,Profissional de efeitos especiais,0
+Letícia Teixeira,Android 4.3.1,Velejador,0
+Gustavo da Mata,4464866836847991,0800-304-7440,1
+Lavínia Peixoto,374228954227588,+55 (041) 7482-6995,1
+Emanuelly Silveira,Android 4.3.1,Quiropraxista,0
+Francisco Novaes,6011204926671951,+55 71 0791-3152,1
+Dra. Catarina da Mota,Android 2.3.4,Terapeuta ocupacional,0
+Bianca da Luz,4745759899411247814,41 7612-0315,1
+Sr. Vicente Nascimento,3569815099265033,+55 61 0310 6959,1
+Yago da Conceição,Android 4.0.1,Militar da Marinha,0
+Augusto da Conceição,2289560342885325,+55 (021) 0075 7059,1
+Lucas Gabriel Viana,4554809695821955,71 8642-4045,1
+Sr. Felipe Porto,Android 7.1.2,Barbeiro,0
+Dr. André Moraes,Android 4.2,Engenheiro de projetos,0
+Lara Moura,Android 9,Cumim,0
+Lorenzo Vieira,4750656143084,0500 563 6631,1
+Rafael Gonçalves,Android 4.2.2,Moleiro,0
+Thiago Cardoso,2253793232126268,(021) 4090-6925,1
+Bruno da Rosa,2530511741696141,+55 (031) 8793-8625,1
+Cauê Novaes,3592279270942350,71 5414 7232,1
+João Pedro Farias,4505548638570259,+55 (084) 5684 2361,1
+Gustavo Henrique Fernandes,4443497997240376892,+55 41 0460 7056,1
+Maria Vitória Cardoso,Android 3.2.2,Técnico em tratamento de água,0
+Brenda Pinto,Android 5.1.1,Flanelinha,0
+Sr. Marcos Vinicius das Neves,Android 2.3.3,Leão de chácara,0
+Sra. Maria Moura,Android 2.2.3,Agrônomo,0
+Sofia Souza,Android 8.1.0,Diretor de cinema,0
+Letícia da Conceição,4639545075948,41 8144-9925,1
+Joana Nascimento,3593597173957228,31 5773 3891,1
+Maria Eduarda Pinto,Android 3.2.2,Triatleta,0
+Luiz Fernando da Cunha,3501168989987790,(021) 9597-6032,1
+Anthony Farias,Android 9,Transportador,0
+Sr. Ryan Araújo,340523498178227,(011) 3376 3825,1
+Gustavo Henrique Dias,Android 4.0.3,Profissional de áudio,0
+Srta. Ana Vitória Ramos,30240739083463,+55 (011) 7292-0868,1
+Juan Porto,503811119281,51 6044 6824,1
+Maria Alice da Costa,6556064043999920,0800 158 6500,1
+Ian Sales,4552181506680992,+55 31 9292 3815,1
+Felipe Gomes,4346666288624532,31 5425-8497,1
+Dra. Lavínia Silveira,Android 3.0,Guincheiro,0
+Pietra Novaes,Android 2.2,Fonoaudiólogo,0
+Guilherme Araújo,345532143543714,0900 572 4873,1
+Ian Dias,Android 4.4.2,Forneiro,0
+Lucca Carvalho,Android 7.1,Engenheiro de aquicultura,0
+Joaquim Correia,Android 4.4,Peão de rodeiro,0
+João Gabriel Azevedo,Android 5.1.1,Infectologista,0
+Helena Araújo,6564683899775157,51 2429 8697,1
+Sr. Thiago Vieira,4644456090678036,(084) 2992-9524,1
+Danilo Martins,4039068343462283,+55 (081) 6302 6043,1
+Isabelly Viana,Android 8.0.0,Oculista,0
+Dr. Enzo Gabriel Cunha,Android 8.0.0,Empregado doméstico,0
+Gabrielly da Rocha,4676833621469724,(021) 7727 9961,1
+Dra. Alexia da Cunha,2285283999886504,0800 772 6417,1
+Dra. Sophia Farias,213125261791634,0500 613 9005,1
+Stephany das Neves,6564746256522106,+55 11 8476 3530,1
+Ana Clara da Rosa,Android 4.0.1,Técnico em arquivo,0
+Alice da Rocha,Android 1.1,Frentista,0
+Olivia Santos,Android 4.1,Sapateiro,0
+Beatriz da Mata,373141986972645,+55 (031) 3955 4783,1
+Joaquim Rezende,4708278067282321098,(081) 9934 4919,1
+Rebeca Ferreira,Android 4.4.3,Coach,0
+Dr. Rodrigo Vieira,630410729226,+55 (041) 5965-6394,1
+Paulo Fogaça,Android 7.1.2,Endocrinologista,0
+Vitor Hugo Oliveira,Android 4.1.1,Cientista social,0
+Maria Gomes,Android 4.3.1,Biotecnólogo,0
+Sr. Otávio Moura,3508567100324952,11 2468-9422,1
+Benício Silva,Android 4.2.2,Terapeuta Holístico,0
+Luana das Neves,Android 3.2,Letrista,0
+Nina das Neves,4062711684084261,(011) 1634 1555,1
+Isadora Vieira,3572115984610830,+55 (084) 6385 6368,1
+Bárbara Barbosa,Android 8.1.0,Clarinetista,0
+Nathan Viana,Android 3.2.1,Diretor de cinema,0
+Maria Alice Rocha,Android 4.0.3,Ceramista,0
+Ana Julia Moura,6011717525946524,51 6283 2334,1
+Thales Almeida,5577105443589022,61 9731 6819,1
+Lavínia Moura,Android 4.1,Oceanógrafo,0
+Marcelo Farias,Android 9,Barbeiro,0
+Maria Alice da Cunha,3591160000350380,0500 789 6660,1
+Valentina Cardoso,676367581219,+55 61 1325 7891,1
+Sr. Levi Ribeiro,676121635681,(011) 9603-4535,1
+João Guilherme da Paz,340013440768093,+55 (011) 2502-7937,1
+Pedro Lucas Cardoso,4258266662832,+55 (031) 5900 4596,1
+Isabel Moura,377434407384425,(041) 3633 5252,1
+Alícia Lopes,4827878458190353418,+55 (011) 2822-3628,1
+Dr. Erick Barros,502031617835,+55 (031) 4336-6165,1
+Pedro Lucas Silva,4528016524981,81 2089 2686,1
+Clara Ferreira,4337888318831,31 3753 4805,1
+Sr. André Mendes,Android 7.1,Clínico geral,0
+Renan Nogueira,Android 2.2,Apresentador,0
+Brenda Alves,2353583545724621,+55 (084) 5573 7153,1
+Theo Nogueira,Android 4.4.2,Cancerologista ou Oncologista,0
+Dr. Pedro Miguel Souza,Android 1.6,Lancheiro,0
+Júlia da Paz,3564731163025283,+55 71 1097-4128,1
+Emanuel da Mata,Android 11,Maestro,0
+Ana Carolina Cardoso,30477075915417,31 2258 9196,1
+Emanuella Ramos,4117255040147,+55 (071) 2291-6495,1
+Renan Carvalho,Android 1.0,Ceramista,0
+Manuela Viana,3568666847286008,+55 (021) 9871-8108,1
+Vitor Gabriel da Paz,4013155279615966,+55 31 5036 7241,1
+Maria Clara Duarte,Android 3.0,Ventríloquo,0
+Lucca Aragão,Android 2.3.1,Pedreiro,0
+Matheus Ribeiro,Android 4.0.1,Infectologista,0
+Alana Rocha,372636519507439,(021) 6675-9968,1
+Sra. Gabriela Gonçalves,502020847294,41 9475-4589,1

@@ -19,3 +19,33 @@ def plot_history(history):
   plot.plot(x, val_loss, 'r', label='Perca/loss na validação')
   plot.title('Treinamento e validação de perca/loss.')
   plot.legend()
+
+def plot_history_accuracy(history):
+  plot.plot(history.history['accuracy'])
+  plot.plot(history.history['val_accuracy'])
+  plot.title('model accuracy')
+  plot.ylabel('acurácia')
+  plot.xlabel('épocas')
+  plot.legend(['treino', 'teste'], loc='upper left')
+  plot.show()
+
+def plot_history_loss(history):
+  plot.plot(history.history['loss'])
+  plot.plot(history.history['val_loss'])
+  plot.title('model loss')
+  plot.ylabel('perca')
+  plot.xlabel('épocas')
+  plot.legend(['treino', 'teste'], loc='upper left')
+  plot.show()
+
+def plot_validation_acc_vs_trainning_acc(history):
+  loss_train = history.history['accuracy']
+  loss_val = history.history['val_accuracy']
+  epochs = range(1,11)
+  plot.plot(epochs, loss_train, 'g', label='Acurácia de treinamento.')
+  plot.plot(epochs, loss_val, 'b', label='Acurácia de validação.')
+  plot.title('Treinamento e Validção de acurácia')
+  plot.xlabel('Épocas')
+  plot.ylabel('Acurácia')
+  plot.legend()
+  plot.show()
