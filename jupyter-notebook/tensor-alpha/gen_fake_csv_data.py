@@ -17,7 +17,7 @@ class SensitiveDataGenerator():
     Returns:
         list: _description_
     """    
-    return ['nome', 'cartão de crédito', 'telefone', 'tipo de dado']
+    return ['nome', 'cartão de crédito', 'telefone', 'tipo do dado']
   
   # Gerador de dados sensitivos falsos.
   def __generate_data(self, type) -> list:
@@ -26,7 +26,7 @@ class SensitiveDataGenerator():
         list: _description_
     """    
     fake = Faker(self.language)
-    if type:
+    if type == True:
       return [fake.name(), fake.credit_card_number(), fake.phone_number(), 1]
     return [fake.name(), fake.credit_card_number(), fake.phone_number()]
   
@@ -92,7 +92,7 @@ class SensitiveDataGenerator():
         else:
           writer.writerow(title)
         for _ in range(1, size):
-          writer.writerow(self.__generate_data(False))
+          writer.writerow(self.__generate_data(True))
 
   # Escrita de dados CSV gerados, sendo eles apenas aleatórios, podendo ser sensível ou não
   def write_csv_data_random(self, name:str='dados_sensiveis_aleatorio.csv', title:list=None, size:int=10) -> True:

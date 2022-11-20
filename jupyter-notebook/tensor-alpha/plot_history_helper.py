@@ -10,9 +10,9 @@ def plot_history(history):
   # Plot da figura.
   plot.figure(figsize=(12, 5))
   plot.subplot(1, 2, 1)
-  plot.plot(x, accuracy, 'b', label='Precisão de treinamento')
-  plot.plot(x, val_accuracy, 'r', label='Validação de precisão')
-  plot.title('Treinamento e validação de precisão')
+  plot.plot(x, accuracy, 'b', label='Acurácia de treinamento')
+  plot.plot(x, val_accuracy, 'r', label='Validação de acurácia')
+  plot.title('Treinamento e validação de acurácia')
   plot.legend()
   plot.subplot(1, 2, 2)
   plot.plot(x, loss, 'b', label='Perca/loss no treinamento')
