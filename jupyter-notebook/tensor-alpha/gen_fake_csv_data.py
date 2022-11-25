@@ -17,7 +17,19 @@ class SensitiveDataGenerator():
     Returns:
         list: _description_
     """    
-    return ['nome', 'cartão de crédito', 'telefone', 'tipo do dado']
+    return ['Nome', 'Cartão de crédito', 'Telefone', 'Classe']
+
+  def __generate_prof_data(self, type:bool):
+    fake = Faker(self.language)
+    if type == True:
+      return [fake.job(), 0]
+    return [fake.job()]
+  
+  def __generate_cpf_data(self, type:bool):
+    fake = Faker(self.language)
+    if type == True:
+      return [fake.cpf(), 1]
+    return [fake.cpf()]
   
   # Gerador de dados sensitivos falsos.
   def __generate_data(self, type) -> list:
@@ -121,12 +133,33 @@ class SensitiveDataGenerator():
     with open(name, 'w',  newline='', encoding='utf-8') as csv_file:
       writer:object = csv.writer(csv_file)
       if(title is None):
-        writer.writerow(['nome', 'cartão de crédito', 'telefone'])
+        writer.writerow(['Nome', 'Cartão de crédito', 'Telefone'])
       else:
         writer.writerow(title)
       for _ in range(1, size):
         writer.writerow(self.__generate_data_random(False))
+  
+  def write_csv_cpf_random(self, name:str='cpf_list_mix.csv', title:list=None, size:int=10) -> True:
+    """_summary_
+    Args:
+        name (str, optional): _description_. Defaults to 'cpf_list_mix.csv'.
+        title (list, optional): _description_. Defaults to None.
+        size (int, optional): _description_. Defaults to 10.
+    Returns:
+        True: _description_
+    """
+    with open(name, 'w',  newline='', encoding='utf-8') as csv_file:
+      writer:object = csv.writer(csv_file)
+      if(title is None):
+        writer.writerow(['Coluna A', 'Classe'])
+      else:
+        writer.writerow(title)
+      for _ in range(1, size):
+        if(random.randint(0,1) < 1):
+          writer.writerow(self.__generate_prof_data(True))
+        else:
+          writer.writerow(self.__generate_cpf_data(True))
 
 if __name__ == '__main__':
   sensitive_data_generator = SensitiveDataGenerator('pt_br')
-  sensitive_data_generator.write_csv_data_random(title=['Dado A', 'Dado B', 'Dado C', 'tipo'])
+  sensitive_data_generator.write_csv_data_random(title=['Coluna A', 'Coluna B', 'Coluna C', 'Classe'])

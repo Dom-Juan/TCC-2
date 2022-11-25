@@ -13,11 +13,15 @@ def plot_history(history):
   plot.plot(x, accuracy, 'b', label='Acurácia de treinamento')
   plot.plot(x, val_accuracy, 'r', label='Validação de acurácia')
   plot.title('Treinamento e validação de acurácia')
+  plot.xlabel('Amostra')
+  plot.ylabel('Acurácia')
   plot.legend()
   plot.subplot(1, 2, 2)
   plot.plot(x, loss, 'b', label='Perca/loss no treinamento')
   plot.plot(x, val_loss, 'r', label='Perca/loss na validação')
   plot.title('Treinamento e validação de perca/loss.')
+  plot.xlabel('Amostra')
+  plot.ylabel('Perca')
   plot.legend()
 
 def plot_history_accuracy(history):
