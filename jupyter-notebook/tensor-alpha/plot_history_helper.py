@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plot
 plot.style.use('ggplot')
+plot.style.use('dark_background')
 
 def plot_history(history):
   accuracy = history.history['accuracy']
