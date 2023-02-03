@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plot
-
+import numpy as np
 
 plot.style.use('ggplot')
 plot.style.use('dark_background')

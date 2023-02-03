@@ -35,8 +35,8 @@ class SensitiveDataGenerator():
     """ 
     fake = Faker(self.language)
     if type == True:
-      return [fake.name(), fake.credit_card_number(), fake.phone_number(), 1]
-    return [fake.name(), fake.credit_card_number(), fake.phone_number()]
+      return [fake.name(), fake.credit_card_number(card_type='mastercard'), fake.phone_number(), 1]
+    return [fake.name(), fake.credit_card_number(card_type='mastercard'), fake.phone_number()]
   
   # Gerador de dados aleatórios falsos, nem todas as linhas serão dados sensíveis.
   def __generate_data_random(self, type:bool) -> list:
@@ -47,11 +47,11 @@ class SensitiveDataGenerator():
     fake = Faker(self.language)
     if type:
       if(random.randint(0,1) < 1):
-        return [fake.name(), fake.credit_card_number(), fake.phone_number(), 1]
+        return [fake.name(), fake.credit_card_number(card_type='mastercard'), fake.phone_number(), 1]
       else:
         return [fake.user_name(), fake.android_platform_token(), fake.job(), 0]
     if(random.randint(0,1) < 1):
-      return [fake.name(), fake.credit_card_number(), fake.phone_number()]
+      return [fake.name(), fake.credit_card_number(card_type='mastercard'), fake.phone_number()]
     else:
       return [fake.user_name(), fake.android_platform_token(), fake.job()]
 
@@ -158,4 +158,4 @@ class SensitiveDataGenerator():
 
 if __name__ == '__main__':
   sensitive_data_generator = SensitiveDataGenerator('pt_br')
-  sensitive_data_generator.write_csv_data_random(title=['Coluna A', 'Coluna B', 'Coluna C', 'Classe'])
+  sensitive_data_generator.write_csv_data_random(name='teste.csv', title=['Coluna A', 'Coluna B', 'Coluna C', 'Classe'])
